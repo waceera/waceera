@@ -28,6 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
+<a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Hazel-Kun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
-<a href="https://wa.me/62887435047326"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/62895322082724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/gwehjhazel"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
