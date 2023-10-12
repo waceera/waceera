@@ -42,7 +42,7 @@
 
 <a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 [![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://replit.com/@hazelsupp0rt)
-
+<img src="https://i.imgur.com/tzYKRfd.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
