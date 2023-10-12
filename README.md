@@ -34,3 +34,4 @@
 <a href="https://www.youtube.com/@Hazel-Kun" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Hazel Kun-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
 <a href="https://wa.me/62895322082724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/gwehjhazel"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+<a href="inikahsiapa@gmail.com"><img src="https://img.shields.io/badge/-inikahsiapa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
