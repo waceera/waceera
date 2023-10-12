@@ -15,7 +15,7 @@
 
 ## Spotify Music :
 <p align="center">
-  <a href="https://open.spotify.com/intl-id/track/7AIj86wFWqm7X1TZ2hzHwS?si=c188da2e71264865" target="_blank"><img src="https://telegra.ph/file/269926b0636a464b6de7c.jpg" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/intl-id/track/7AIj86wFWqm7X1TZ2hzHwS?si=c188da2e71264865" target="_blank"><img src="https://telegra.ph/file/c729e41847aba571b81fc.jpg" alt="Spotify Now Playing" width="350"/></a></p>
 
 > * 00:00​ ━❍──────── 03:19 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
