@@ -58,4 +58,5 @@ Halo semua, selanat datang di profil saya, Saya baru di github. Salam kenal ya s
 
 Disini aku masih belajar tentang bahasa-bahasa pemrograman. Jika kamu mau ajarin aku, Chat aja 😊
 
-## TERIMA KASIH SUDAH MELIHAT
+## TERIMA KASIH SUDAH MELIHAT :)
+<img src="https://i.imgur.com/tzYKRfd.gif">
