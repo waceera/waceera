@@ -10,7 +10,7 @@
 
 ## Spotify Music :
 <p align="center">
-  <a href="https://open.spotify.com/intl-id/track/3wJHCry960drNlAUGrJLmz?si=390325f137574df2" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/intl-id/track/3wJHCry960drNlAUGrJLmz?si=390325f137574df2" target="_blank"><img src="https://telegra.ph/file/269926b0636a464b6de7c.jpg" alt="Spotify Now Playing" width="350"/></a></p>
 
 > * 00:00​ ━❍──────── 03:19 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
