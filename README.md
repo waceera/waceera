@@ -47,3 +47,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waceera&hide_title=true&hide_border=true&theme=tokyonight" /></div>
+
+<summary>&#127942 <b>GitHub Activity</b>
+</summary>
+
+![Metrics](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
