@@ -52,3 +52,10 @@
 </summary>
 
 ![Metrics](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+## Deskripsi
+Halo semua, selanat datang di profil saya, Saya baru di github. Salam kenal ya semua. Aku disini buat bot telegram/whatsapp/discord walaupun kloning :)
+
+Disini aku masih belajar tentang bahasa-bahasa pemrograman. Jika kamu mau ajarin aku, Chat aja 😊
+
+## TERIMA KASIH SUDAH MELIHAT
