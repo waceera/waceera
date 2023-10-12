@@ -18,24 +18,10 @@
 ------
  B i o d a t a 🎨
 ```kt
-fun main() {
-    println("About Me 🐾")
-    val name = "Xiao Yan"
-    println("My name is $name")
-    
-    val age = 18
-    val gender = "Male"
-    
-    println("Age : $age Th") 
-    println("Gender : $gender")
-    println("Not Programmers 👨‍💻")
-}
+🤍 Name: Hazel (Nama Palsu)
+🧡 Age: 10 - 14
+💛 City: Cilacap, Jawa Tengah
+💚 Born: 🔓
+💙 My channel: https://t.me/markasnyahzell
 ```
 ---------
-
-## ```Status 🐾```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYanXiao&show_icons=true&theme=radical" />
-</p>
-
-<!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
