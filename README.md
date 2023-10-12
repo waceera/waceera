@@ -6,7 +6,7 @@
 > * Hello All! Welcome to my profile! 💌
 
 <p align="center">
-<a href="https://github.com/waceera"><img title="Author" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/waceera"><img title="❤ OwO!!!!" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
