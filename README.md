@@ -36,3 +36,7 @@
 <a href="https://t.me/gwehjhazel"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
 <a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+
+### ⚙️ &nbsp;GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waceera&hide_title=true&hide_border=true&theme=tokyonight" /></div>
