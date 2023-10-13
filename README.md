@@ -34,7 +34,7 @@
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<img src="https://i.imgur.com/tzYKRfd.gif">
 <a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
 <a href="https://www.youtube.com/@Hazel-Kun" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Hazel Kun-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
 <a href="https://wa.me/62895322082724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -42,7 +42,6 @@
 
 <a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 [![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://replit.com/@hazelsupp0rt)
-<img src="https://i.imgur.com/tzYKRfd.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
