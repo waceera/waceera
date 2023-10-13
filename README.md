@@ -50,6 +50,7 @@
     <summary> <b>Klik disini</b></summary><br/>
 
 - [Nomor Bot 1](https://wa.me/6288215373747/?text=.menu)
+- [Nomor Bot 2 (Soon...)](https://wa.me/6285778448141)
 </details>
 
 # List Bot Telegram saya
