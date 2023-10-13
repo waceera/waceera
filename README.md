@@ -56,8 +56,6 @@
 
 <details>
     <summary> <b>Klik Disini!</b></summary><br/>
-
-## Donate
 - [Boost Telegram](https://t.me/markasnyahzell?boost)
 - [Pulsa](https://pastebin.com/rVA3y2i9)
 
