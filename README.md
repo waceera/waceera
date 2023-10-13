@@ -59,6 +59,7 @@
 
 - [GACUKUP, KLIK DISINI UNTUK HALAMAN 1](https://t.me/markasnyahzell/1767)
 - [HALAMAN 2](https://t.me/markasnyahzell/2350)
+</details>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
