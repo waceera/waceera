@@ -52,6 +52,14 @@
 - [Nomor Bot 1](https://wa.me/6288215373747/?text=.menu)
 </details>
 
+# List Bot Telegram saya
+
+<details>
+     <summary> <b>Klik disini</b></summary><br/>
+
+- [GACUKUP, KLIK DISINI UNTUK HALAMAN 1](https://t.me/markasnyahzell/1767)
+- [HALAMAN 2](https://t.me/markasnyahzell/2350)
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waceera&hide_title=true&hide_border=true&theme=tokyonight" /></div>
