@@ -59,6 +59,23 @@
 
 - [Boost Telegram](https://t.me/markasnyahzell?boost)
 - [Pulsa](https://pastebin.com/rVA3y2i9)
+- [Boost Discord](https://tr.ee/tWKSnFxYwi)
+
+## Cara boost discord
+1. Join server discord saya
+2. Anda harus punya nitro
+3. Lalu boost dan screenshot ketika sudah boost
+4. Kirim ke verify-role
+
+## Cara boost channel telegram
+1. Join channel telegram saya
+2. Anda harus punya telegram premium
+3. Klik boost
+4. Selesaikan pembayaran
+5. Selesai
+
+## Cara boost lewat pulsa
+1. Kurang tahu 🗿🙏
 
 </details>
 
