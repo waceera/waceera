@@ -21,7 +21,7 @@
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
 ------
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="373.5px" height="208.5px">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
 
  B i o d a t a 🎨
 ```kt
@@ -34,7 +34,7 @@
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://i.imgur.com/tzYKRfd.gif" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
 <a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
 <a href="https://www.youtube.com/@Hazel-Kun" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Hazel Kun-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
