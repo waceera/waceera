@@ -61,5 +61,3 @@ Disini aku masih belajar tentang bahasa-bahasa pemrograman. Jika kamu mau ajarin
 ## TERIMA KASIH SUDAH MELIHAT :)
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
