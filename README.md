@@ -44,6 +44,14 @@
 <a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 [![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://replit.com/@hazelsupp0rt)
 
+# List Bot WhatsApp Saya
+
+<details>
+    <summary> <b>Klik disini</b></summary><br/>
+
+- [Nomor Bot 1](https://wa.me/6288215373747/?text=.menu)
+</details>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waceera&hide_title=true&hide_border=true&theme=tokyonight" /></div>
