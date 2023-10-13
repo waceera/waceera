@@ -61,6 +61,8 @@
 - [Boost Telegram](https://t.me/markasnyahzell?boost)
 - [Pulsa](https://pastebin.com/rVA3y2i9)
 
+</details>
+
 ## Deskripsi
 Halo semua, selanat datang di profil saya, Saya baru di github. Salam kenal ya semua. Aku disini buat bot telegram/whatsapp/discord walaupun kloning :)
 
