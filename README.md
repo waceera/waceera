@@ -11,7 +11,7 @@
 > * Hello All! Welcome to my profile! 💌
 
 <p align="center">
-<a href="https://github.com/waceera"><img title="❤ OwO!!!!" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/waceera"><img title="Halo" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
@@ -34,7 +34,7 @@
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://i.imgur.com/tzYKRfd.gif" width="373.5px" height="208.5px">
 <a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
 <a href="https://www.youtube.com/@Hazel-Kun" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Hazel Kun-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
 <a href="https://wa.me/62895322082724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
