@@ -21,7 +21,7 @@
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
 ------
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="373.5px" height="208.5px">
 
  B i o d a t a 🎨
 ```kt
@@ -59,4 +59,4 @@ Halo semua, selanat datang di profil saya, Saya baru di github. Salam kenal ya s
 Disini aku masih belajar tentang bahasa-bahasa pemrograman. Jika kamu mau ajarin aku, Chat aja 😊
 
 ## TERIMA KASIH SUDAH MELIHAT :)
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
