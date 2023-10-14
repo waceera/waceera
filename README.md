@@ -7,6 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Iam+Hazel;How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/waceera)
 
+ -->    <img align="middle" src="https://profile-counter.glitch.me/waceera/count.svg" />
+</p>
+
 ## It's Me? :
 > * Hello All! Welcome to my profile! 💌
 
