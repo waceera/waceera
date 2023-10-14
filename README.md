@@ -32,6 +32,7 @@ Visitor -->    <img align="middle" src="https://profile-counter.glitch.me/waceer
 🧡 Age: 10 - 14
 💛 City: Cilacap, Jawa Tengah
 💚 Born: 🔓
+🟣 Langauge: Indonesia, Malaysia, English, Jawa
 💙 My channel: https://t.me/markasnyahzell
 ```
 ---------
