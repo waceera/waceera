@@ -28,12 +28,18 @@ Visitor -->    <img align="middle" src="https://profile-counter.glitch.me/waceer
 
  B i o d a t a 🎨
 ```kt
-🤍 Name: Hazel (Nama Palsu)
-🧡 Age: 10 - 14
-💛 City: Cilacap, Jawa Tengah
-💚 Born: 🔓
-🟣 Langauge: Indonesia, Malaysia, English, Jawa
-💙 My channel: https://t.me/markasnyahzell
+fun main() {
+    println("About Me 🐾")
+    if name = "Hazel-Kun"
+    println("My name is $name")
+    
+    val age = 10-14
+    val gender = "Male"
+    
+    println("Age : $age Th") 
+    println("Gender : $gender")
+    println("Not Programmers 👨‍💻")
+}
 ```
 ---------
 <h3 align="left">Connect with me:</h3>
