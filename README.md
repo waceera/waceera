@@ -13,8 +13,12 @@
   <a href="https://github.com/waceera"><img src="https://cardivo.vercel.app/api?name=Hazel-Kun&description=Hi,%20Im%20Hazel%20Kun%20and%20i%20love%20whatsapp%20bot&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gwehjhazel&github=waceera&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-Visitor -->    <img align="middle" src="https://profile-counter.glitch.me/waceera/count.svg" />
-</p>
+## Kamu adalah visitor urutan ke:
+<details open>
+<summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
+</details>
 
 ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
