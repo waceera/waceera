@@ -14,11 +14,7 @@
 </p>
 
 ## Kamu adalah visitor urutan ke:
-<details open>
-<summary><b>←Total Profile Visitors ↓</b></summary>
-<br>
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
-</details>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@waceera?theme=rule34"/></a>
 
 ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
