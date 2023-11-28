@@ -10,8 +10,14 @@
 Visitor -->    <img align="middle" src="https://profile-counter.glitch.me/waceera/count.svg" />
 </p>
 
-## It's Me? :
+## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
+## 🎮 Mini Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="center">
 <a href="https://github.com/waceera"><img title="Halo" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
@@ -30,7 +36,7 @@ Visitor -->    <img align="middle" src="https://profile-counter.glitch.me/waceer
 ```kt
 fun main() {
     println("About Me 🐾")
-    if name = "Hazel-Kun"
+    val name = "Hazel-Kun"
     println("My name is $name")
     
     val age = 10-14
@@ -38,7 +44,7 @@ fun main() {
     
     println("Age : $age Th") 
     println("Gender : $gender")
-    println("Not Programmers 👨‍💻")
+    println("Not Sepuh 👨‍💻")
 }
 ```
 ---------
