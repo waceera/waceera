@@ -64,24 +64,15 @@ fun main() {
 <a href="https://t.me/gwehjhazel"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
 <a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://replit.com/@hazelsupp0rt)
 
-# List Bot WhatsApp Saya
-
-<details>
-    <summary> <b>Klik disini</b></summary><br/>
-
-- [Nomor Bot 1](https://wa.me/6288215373747/?text=.menu)
-- [Nomor Bot 2 (Baru)](https://bit.ly/markasnyahzell)
-</details>
-
-# List Bot Telegram saya
+# List My Project
 
 <details>
      <summary> <b>Klik disini</b></summary><br/>
 
-- [GACUKUP, KLIK DISINI UNTUK HALAMAN 1](https://t.me/markasnyahzell/1767)
-- [HALAMAN 2](https://t.me/markasnyahzell/2350)
+- WhatsApp Bot
+- Telegram Bot
+- Discord Bot
 </details>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -91,7 +82,7 @@ fun main() {
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
-![Metrics](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Jika tidak muncul, silahkam refeest](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 ## Github Trophy
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=waceera)
 ## Donasi atau Boost
