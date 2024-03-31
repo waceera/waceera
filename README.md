@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/2a0dcfbe4b1a55f1da1f71e6f5829820cfea05c6e1fbe33b5e596b31a6a34ce3/68747470733a2f2f74656c656772612e70682f66696c652f3337646636396137386166623665303130323832642e6a7067" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://c4.wallpaperflare.com/wallpaper/438/467/691/hololive-gawr-gura-shark-teeth-underwater-blue-eyes-hd-wallpaper-preview.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Iam+Hazel;How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/waceera)
