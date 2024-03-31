@@ -91,7 +91,7 @@
 <summary>&#127942 <b>GitHub Activity</b>
 </summary>
 
-![Jika tidak muncul, silahkam refeest](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Jika tidak muncul, silahkan refresh](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 ## Github Trophy
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=waceera)
 ## Donasi atau Boost
