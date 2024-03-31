@@ -37,22 +37,11 @@
 
 ------
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
-
- B i o d a t a 🎨
-```kt
-fun main() {
-    println("About Me 🐾")
-    val name = "Hazel-Kun"
-    println("My name is $name")
-    
-    val age = 10-14
-    val gender = "Male"
-    
-    println("Age : $age Th") 
-    println("Gender : $gender")
-    println("Not Sepuh 👨‍💻")
-}
-```
+<div>
+<h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
+  </div>
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
