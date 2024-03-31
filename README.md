@@ -38,7 +38,7 @@
 ------
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
 <div>
-<h6 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
