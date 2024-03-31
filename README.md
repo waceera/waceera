@@ -38,8 +38,7 @@
 ------
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
 <div>
-😼 ~ ABOUT ME ~ 😼 </h2>
-  <div align="center">
+## 😼 ~ ABOUT ME ~ 😼
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
@@ -62,7 +61,6 @@
 <br>
 <br>
 ## ✨ ~ Social Media ~ ✨ </h3>
-<p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
 <a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
