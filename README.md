@@ -62,7 +62,7 @@
 <br>
 <br>
 <div align="center">
-## ✨ ~ Social Media ~ ✨</h3>
+## ✨ ~ Social Media ~ ✨
 <p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
