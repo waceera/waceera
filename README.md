@@ -60,7 +60,7 @@
 <br>
 <br>
 <br>
-## ✨ ~ Social Media ~ ✨ </h3>
+<h3 align="center">## ✨ ~ Social Media ~ ✨ </h3>
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
 <a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
