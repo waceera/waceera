@@ -18,6 +18,7 @@
 
 ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
+<div align="center">
 ## 🎮 Mini Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
