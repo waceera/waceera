@@ -71,7 +71,7 @@
 <a href="https://wa.me/62895322082724"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/gwehjhazel"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
-<a href="hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 
 # List My Project
 
