@@ -8,17 +8,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Iam+Hazel;How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/waceera)
 
 </p>
-<a href="https://github.com/ShirokamiRyzen"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
+<a href="https://github.com/waceera"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
   <a href="https://github.com/waceera"><img src="https://cardivo.vercel.app/api?name=Hazel-Kun&description=Hi,%20Im%20Hazel%20Kun%20and%20i%20love%20whatsapp%20bot&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gwehjhazel&github=waceera&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-## Kamu adalah visitor urutan ke:
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@waceera?theme=rule34"/></a>
+## 👤 ~ Visitor ~ 👤
+<a href="Pain."><img alt="Cute Count" src="https://count.getloli.com/get/@waceera?theme=rule34"/></a>
 
 ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
-## 🎮 Mini Game
+## 🎮 ~ Mini Game ~ 🎮
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake.svg" />
@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://github.com/waceera"><img title="Halo" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
 
-## Spotify Music :
+## 🎶 ~ Spotify Music ~ 🎶 :
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/7AIj86wFWqm7X1TZ2hzHwS?si=c188da2e71264865" target="_blank"><img src="https://telegra.ph/file/c729e41847aba571b81fc.jpg" alt="Spotify Now Playing" width="350"/></a></p>
 
@@ -62,7 +62,7 @@
 <br>
 <br>
 <div align="center">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✨ ~ Social Media ~ ✨</h3>
 <p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
