@@ -61,8 +61,7 @@
 <br>
 <br>
 <br>
-<div align="center">
-## ✨ ~ Social Media ~ ✨
+## ✨ ~ Social Media ~ ✨ </h3>
 <p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
