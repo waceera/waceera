@@ -62,7 +62,7 @@
 <br>
 <br>
 <br>
----------
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
