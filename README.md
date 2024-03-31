@@ -42,6 +42,25 @@
   <div align="center">
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
+<li>
+ <b>Name:</b> ejeng roza 
+</li>
+<li>
+<b>Loves:</b> Games, Ejen Ali, Music
+</li>
+<li>
+<b>Gender:</b> Laki-laki
+</li>
+<li>
+<b>Website</b> https://waceera.github.io
+</li>
+<li>
+<b>Hobbys:</b> Play Game, Coding, Watch TV, And More..
+</li>
+
+<br>
+<br>
+<br>
 ---------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
