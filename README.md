@@ -18,7 +18,6 @@
 
 ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
-<div align="center">
 ## 🎮 Mini Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
@@ -102,29 +101,5 @@
 - [Boost Telegram](https://t.me/markasnyahzell?boost)
 - [Pulsa](https://pastebin.com/rVA3y2i9)
 - [Boost Discord](https://tr.ee/tWKSnFxYwi)
-
-## Cara boost discord
-1. Join server discord saya
-2. Anda harus punya nitro
-3. Lalu boost dan screenshot ketika sudah boost
-4. Kirim ke verify-role
-
-## Cara boost channel telegram
-1. Join channel telegram saya
-2. Anda harus punya telegram premium
-3. Klik boost
-4. Selesaikan pembayaran
-5. Selesai
-
-## Cara boost lewat pulsa
-1. Kurang tahu 🗿🙏
-
+- [Dana/Gopay](https://pastebin.com/fLNRk8Zs)
 </details>
-
-## Deskripsi
-Halo semua, selanat datang di profil saya, Saya baru di github. Salam kenal ya semua. Aku disini buat bot telegram/whatsapp/discord walaupun kloning :)
-
-Disini aku masih belajar tentang bahasa-bahasa pemrograman. Jika kamu mau ajarin aku, Chat aja 😊
-
-## TERIMA KASIH SUDAH MELIHAT :)
-<img src="https://i.imgur.com/KXx0cCx.gif">
