@@ -13,12 +13,12 @@
   <a href="https://github.com/waceera"><img src="https://cardivo.vercel.app/api?name=Hazel-Kun&description=Hi,%20Im%20Hazel%20Kun%20and%20i%20love%20whatsapp%20bot&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gwehjhazel&github=waceera&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-## 👤 ~ Visitor ~ 👤
+<h2 align="center"> ## 👤 ~ Visitor ~ 👤
 <a href="Pain."><img alt="Cute Count" src="https://count.getloli.com/get/@waceera?theme=rule34"/></a>
 
-## My Profile ? :
+<h3 align="center"> ## My Profile ? :
 > * Hello All! Welcome to my profile! 💌
-## 🎮 ~ Mini Game ~ 🎮
+<h4 align="center"> ## 🎮 ~ Mini Game ~ 🎮
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eskatos/eskatos/output/github-contribution-grid-snake.svg" />
@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://github.com/waceera"><img title="Halo" src="https://img.shields.io/badge/Hazel-Kun-blue.svg?style=for-the-badge&logo=github"></a>
 
-## 🎶 ~ Spotify Music ~ 🎶 :
+<h5 align="center"> ## 🎶 ~ Spotify Music ~ 🎶 :
 <p align="center">
   <a href="https://open.spotify.com/intl-id/track/7AIj86wFWqm7X1TZ2hzHwS?si=c188da2e71264865" target="_blank"><img src="https://telegra.ph/file/c729e41847aba571b81fc.jpg" alt="Spotify Now Playing" width="350"/></a></p>
 
@@ -38,7 +38,7 @@
 ------
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
 <div>
-<h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+<h6 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
@@ -62,7 +62,7 @@
 <br>
 <br>
 <div align="center">
-<h3 align="left">✨ ~ Social Media ~ ✨</h3>
+<h7 align="left">✨ ~ Social Media ~ ✨</h3>
 <p align="left">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
@@ -73,7 +73,7 @@
 
 <a href="mailto:hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 
-# List My Project
+<h8 align="center"> # List My Project
 
 <details>
      <summary> <b>Klik disini</b></summary><br/>
@@ -83,7 +83,7 @@
 - Discord Bot
 </details>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h9 align="center"> ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waceera&hide=contribs,issues,stars&theme=tokyonight" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waceera&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 
@@ -91,9 +91,9 @@
 </summary>
 
 ![Jika tidak muncul, silahkan refresh](https://metrics.lecoq.io/waceera?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-## Github Trophy
+<h10 align="center"> ## Github Trophy
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=waceera)
-## Donasi atau Boost
+<h11 align="center"> ## Donasi atau Boost
 
 <details>
     <summary> <b>Klik Disini!</b></summary><br/>
