@@ -5,12 +5,12 @@
     <img src="https://c4.wallpaperflare.com/wallpaper/438/467/691/hololive-gawr-gura-shark-teeth-underwater-blue-eyes-hd-wallpaper-preview.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Iam+Hazel;How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/waceera)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+I'am+Hazel;How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/waceera)
 
 </p>
 <a href="https://github.com/waceera"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/waceera"><img src="https://cardivo.vercel.app/api?name=Hazel-Kun&description=Hi,%20Im%20Hazel%20Kun%20and%20i%20love%20whatsapp%20bot&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=gwehjhazel&github=waceera&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/waceera"><img src="https://cardivo.vercel.app/api?name=Hazel-Kun&description=Hi,%20Im%20Hazel%20Kun%20and%20i%20love%20whatsapp%20bot&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=pikikdarijawa&github=waceera&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
  ## 👤 ~ Visitor ~ 👤
@@ -42,19 +42,19 @@
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
- <b>Name:</b> ejeng roza 
+ <b>Name:</b> pikok (bisa dipanggil pikik, hazel)
 </li>
 <li>
-<b>Loves:</b> Games, Ejen Ali, Music
+<b>Loves:</b> Game, Computer, and Chef Renatta
 </li>
 <li>
-<b>Gender:</b> Laki-laki
+<b>Gender:</b> Lanang
 </li>
 <li>
-<b>Website</b> https://waceera.github.io
+<b>Website</b> https://linktr.ee/ppikok
 </li>
 <li>
-<b>Hobbys:</b> Play Game, Coding, Watch TV, And More..
+<b>Hobbys:</b> Play Game, Read book, and More
 </li>
 
 <br>
@@ -63,10 +63,10 @@
 <h3 align="center"> ✨ ~ Social Media ~ ✨ </h3>
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </p>
-<a href="https://instagram.com/gwehjhazel" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
-<a href="https://www.youtube.com/@tempoyakenakkk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Tempoyak Udang-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
+<a href="https://instagram.com/pikikdarijawa" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bayu1swahyudi" />
+<a href="https://www.youtube.com/@youtube" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-Pikik dari Jawa-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Hazel-Kun" alt="khushboo goel" />
 <a href="https://wa.me/6283139453295" target="blank"><img align="center"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://t.me/gwehjhazel"target="blank"><img align="center"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+<a href="https://t.me/Cinasekalisaya"target="blank"><img align="center"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
 <a href="mailto:hazelsupp0rt@yahoo.com"><img src="https://img.shields.io/badge/-hazelsupp0rt@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 
@@ -95,8 +95,7 @@
 <details>
     <summary> <b>Klik Disini!</b></summary><br/>
 
-- [Boost Telegram](https://t.me/markasnyahzell?boost)
-- [Pulsa](https://pastebin.com/rVA3y2i9)
-- [Boost Discord](https://tr.ee/tWKSnFxYwi)
+- [Gift (Telegram Stars)](https://t.me/Cinasekalisaya)
+- [Pulsa (Indosat, Smartfren, AXIS only)](https://pastebin.com/rVA3y2i9)
 - [Dana/Gopay](https://pastebin.com/fLNRk8Zs)
 </details>
